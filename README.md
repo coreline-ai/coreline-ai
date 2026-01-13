@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Coreline](https://img.shields.io/badge/Coreline-Engineering%20Studio-blue.svg)
 
 **Coreline**은 엔지니어링 중심의 AI 및 소프트웨어 스튜디오 입니다. 단순한 프로토타입을 넘어, 지속 가능하고 실제 프로덕션 환경에서 운영 가능한 고품질 솔루션을 제공합니다.
-https://web-coreline-public.vercel.app/
+[https://coreline-project.vercel.app/](https://coreline-project.vercel.app/)
