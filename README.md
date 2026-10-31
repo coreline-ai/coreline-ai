@@ -1,4 +1,4 @@
-## Hi there 👋 Coreline AI
+## Hi there 👋 Coreline AI Studio
 
 <!--
 **coreline-ai/coreline-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 https://github.com/user-attachments/assets/a333e5bd-8336-499c-ab3b-73c48bdbffa1
 
-**Coreline**은 엔지니어링 중심의 AI 및 소프트웨어 스튜디오 입니다. 단순한 프로토타입을 넘어, 지속 가능하고 실제 프로덕션 환경에서 운영 가능한 고품질 솔루션을 제공합니다.
+**Coreline AI Studio**은 엔지니어링 중심의 AGI 및 소프트웨어 스튜디오 입니다. 단순한 프로토타입을 넘어, 지속 가능하고 실제 프로덕션 환경에서 운영 가능한 고품질 솔루션을 제공합니다.
 [[https://corelinestudio.uk](https://corelinestudio.uk/)]
